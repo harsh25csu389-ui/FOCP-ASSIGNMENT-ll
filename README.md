@@ -10,3 +10,7 @@ Count Pairs
 Help Alice to find the Parity
 
 <img width="978" height="687" alt="image" src="https://github.com/user-attachments/assets/c238a2df-1f3e-4bdc-9621-bd0415e986d6" />
+
+Too Chocolatey
+
+<img width="971" height="824" alt="image" src="https://github.com/user-attachments/assets/679c6b9e-3796-4c42-bd63-d8b9f273669b" />
