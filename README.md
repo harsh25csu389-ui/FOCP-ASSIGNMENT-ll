@@ -14,3 +14,11 @@ Help Alice to find the Parity
 Too Chocolatey
 
 <img width="971" height="824" alt="image" src="https://github.com/user-attachments/assets/679c6b9e-3796-4c42-bd63-d8b9f273669b" />
+
+Assignment-Q5
+
+<img width="875" height="173" alt="image" src="https://github.com/user-attachments/assets/19695075-6e45-44c9-b336-0860e8f49ea1" />
+
+Assignment-Q6
+
+<img width="1287" height="269" alt="image" src="https://github.com/user-attachments/assets/3fe32198-ecc7-445d-b0d8-632ce4d8e817" />
