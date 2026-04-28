@@ -22,3 +22,11 @@ Assignment-Q5
 Assignment-Q6
 
 <img width="1287" height="269" alt="image" src="https://github.com/user-attachments/assets/3fe32198-ecc7-445d-b0d8-632ce4d8e817" />
+
+Ai roast generator
+
+<img width="839" height="224" alt="image" src="https://github.com/user-attachments/assets/d4a79710-b116-4601-9b5a-8feb79e1478e" />
+
+Student excuse Generator
+
+<img width="868" height="300" alt="image" src="https://github.com/user-attachments/assets/00ca13e3-faf2-497e-a707-953f3b9d15eb" />
